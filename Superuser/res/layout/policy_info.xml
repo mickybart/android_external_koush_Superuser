@@ -7,6 +7,7 @@
         android:padding="4dp" >
 
         <TextView
+            style="@style/ListItemSummary"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1.6180339887498948482"
@@ -14,6 +15,7 @@
             android:text="@string/app_header" />
 
         <TextView
+            style="@style/ListItemSummary"
             android:id="@+id/app_header"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -34,6 +36,7 @@
         android:padding="4dp" >
 
         <TextView
+            style="@style/ListItemSummary"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1.6180339887498948482"
@@ -41,6 +44,7 @@
             android:text="@string/package_header" />
 
         <TextView
+            style="@style/ListItemSummary"
             android:id="@+id/package_header"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -61,6 +65,7 @@
         android:padding="4dp" >
 
         <TextView
+            style="@style/ListItemSummary"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1.6180339887498948482"
@@ -68,6 +73,7 @@
             android:text="@string/uid_header" />
 
         <TextView
+            style="@style/ListItemSummary"
             android:id="@+id/uid_header"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -88,6 +94,7 @@
         android:padding="4dp" >
 
         <TextView
+            style="@style/ListItemSummary"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1.6180339887498948482"
@@ -95,6 +102,7 @@
             android:text="@string/command_header" />
 
         <TextView
+            style="@style/ListItemSummary"
             android:id="@+id/command_header"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
